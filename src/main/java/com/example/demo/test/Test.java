@@ -11,7 +11,6 @@ public class Test {
         String str1 = "gok123";
         String str2 = "gok";
         String str3 = "123";
-        String str4 = str2+str3;
 
 
     }
