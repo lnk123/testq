@@ -13,7 +13,6 @@ public class Test {
         String str3 = "123";
         String str4 = str2+str3;
 
-        System.out.println(str1==str4); //false
 
     }
 }
